@@ -1,0 +1,6 @@
+*.tmp
+*.log
+/build/
+/install/
+/log/
+*.swap
