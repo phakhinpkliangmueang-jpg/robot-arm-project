@@ -1,0 +1,17 @@
+#Windows ignore
+Thumbs.db
+desktop.ini
+
+
+#CAD ignore
+*.tmp
+*.log
+
+#github 
+..gitignor*
+
+#ubuntu ignore 
+/build/
+/install/
+/log/
+*.swap
